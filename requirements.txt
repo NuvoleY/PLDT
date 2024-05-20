@@ -1,0 +1,11 @@
+numpy                         1.23.5
+pandas                        2.0.0
+d4rl                          1.1
+datasets                      2.14.4
+pickleshare                   0.7.5
+gym                           0.22.0
+h5py                          3.8.0
+mujoco                        2.3.6
+mujoco-py                     1.50.1.0
+torch                         2.0.0+cu117
+transformers                  4.32.0
